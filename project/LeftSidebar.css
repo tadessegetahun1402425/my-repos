@@ -1,0 +1,19 @@
+.left-sidebar {
+  background-color: chocolate;
+  padding: 10px;
+  height: 300px;
+  margin-top: 70px;
+  width: 150px;
+  
+}
+
+.left-sidebar a {
+  display: block;
+  color: white;
+  text-decoration: none;
+  margin-bottom: 10px;
+}
+
+.left-sidebar a:hover {
+  text-decoration: underline;
+}

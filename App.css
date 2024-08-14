@@ -1,0 +1,160 @@
+/* body {
+  background-color: chocolate;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+.main-content {
+  display: flex;
+}
+
+.header {
+  background-color: blue;
+  color: white;
+  padding: 20px;
+}
+
+.left-sidebar {
+  background-color: orange;
+  width: 20%;
+  padding: 20px;
+}
+
+.middle-section {
+  background-color: orange;
+  width: 60%;
+  padding: 20px;
+}
+
+.middle-section .item {
+  background-color: blue;
+  color: white;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.footer {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+}
+
+.footer .about,
+.footer .site-directory,
+.footer .city-guides {
+  display: inline-block;
+  width: 30%;
+  vertical-align: top;
+  padding: 10px;
+}
+.header {
+  background-color: blue;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  color: white;
+}
+
+.logo {
+  font-size: 1.5em;
+}
+
+.nav-bar {
+  display: flex;
+  align-items: center;
+}
+
+.nav-bar input {
+  margin-right: 10px;
+  padding: 5px;
+}
+
+.nav-bar button {
+  margin-left: 10px;
+  padding: 5px 10px;
+  background-color: orange;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+.nav-bar button:hover {
+  background-color: darkorange;
+}
+.footer {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+}
+
+.footer .about,
+.footer .site-directory,
+.footer .city-guides {
+  display: inline-block;
+  width: 30%;
+  vertical-align: top;
+  padding: 10px;
+}
+
+.footer h3 {
+  margin-top: 0;
+} */
+ 
+body {
+  background-color: chocolate;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+.main-content {
+  display: flex;
+}
+
+.header {
+  background-color: blue;
+  color: white;
+  padding: 20px;
+}
+
+.left-sidebar {
+  background-color: orange;
+  width: 20%;
+  padding: 20px;
+}
+
+.middle-section {
+  background-color: orange;
+  width: 60%;
+  padding: 20px;
+}
+
+.middle-section .item {
+  background-color: blue;
+  color: white;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.footer {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+}
+
+.footer .about,
+.footer .site-directory,
+.footer .city-guides {
+  display: inline-block;
+  width: 30%;
+  vertical-align: top;
+  padding: 10px;
+}

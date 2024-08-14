@@ -1,0 +1,25 @@
+.middle-section {
+  background-color: #c24c08;
+  padding: 20px;
+  margin-top: 70px;
+  display: flex;
+  flex-direction: row;
+}
+
+.middle-section item {
+  background-color: rgb(35, 35, 42);
+  max-width: 100%;
+  color: white;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.middle-section .item img {
+  
+  height: auto;
+}
+
+.middle-section .item a {
+  color: white;
+  text-decoration: underline;
+}
